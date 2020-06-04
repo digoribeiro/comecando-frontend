@@ -8,11 +8,15 @@
 - Validação de formulário 
      #### Link de referência 
      - https://medium.com/jaguaribetech/valida%C3%A7%C3%A3o-de-formul%C3%A1rios-com-html5-d1d1aa89bc77
-- Boas práticas
+
 ### Melhor ainda
 - Acessibilidade 
 - SEO básico
-
+- Boas práticas
+  #### Links de referência
+  - https://medium.com/academymeteor/boas-pr%C3%A1ticas-para-programa%C3%A7%C3%A3o-web-html-e-css-c2a62f1b9560
+  - https://andrecomws.com/lab/code-standards
+  
 ## CSS
 - Aprender o básico (fontes, colores, distancia e separação de elementos)
 - Marcação de layout (float, posicionamento, display, flexbox)
