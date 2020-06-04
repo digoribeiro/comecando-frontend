@@ -6,6 +6,8 @@
     - https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065
     - https://medium.com/collabcode/meu-html-%C3%A9-sem%C3%A2ntico-e-o-seu-4e97c81c0c49
 - Validação de formulário 
+     #### Link de referência 
+     - https://medium.com/jaguaribetech/valida%C3%A7%C3%A3o-de-formul%C3%A1rios-com-html5-d1d1aa89bc77
 - Boas práticas
 ### Melhor ainda
 - Acessibilidade 
