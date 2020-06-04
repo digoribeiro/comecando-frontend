@@ -13,9 +13,9 @@
 - Acessibilidade 
 - SEO básico
 - Boas práticas
-  #### Links de referência
-  - https://medium.com/academymeteor/boas-pr%C3%A1ticas-para-programa%C3%A7%C3%A3o-web-html-e-css-c2a62f1b9560
-  - https://andrecomws.com/lab/code-standards
+    #### Links de referência
+     - https://medium.com/academymeteor/boas-pr%C3%A1ticas-para-programa%C3%A7%C3%A3o-web-html-e-css-c2a62f1b9560
+     - https://andrecomws.com/lab/code-standards
   
 ## CSS
 - Aprender o básico (fontes, colores, distancia e separação de elementos)
