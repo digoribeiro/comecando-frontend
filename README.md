@@ -10,7 +10,10 @@
      - https://medium.com/jaguaribetech/valida%C3%A7%C3%A3o-de-formul%C3%A1rios-com-html5-d1d1aa89bc77
 
 ### Melhor ainda
-- Acessibilidade 
+- Acessibilidade
+    - http://www.w3c.br/pub/Agenda/PalestraAcessibilidadeEHtml5/FrontInBH-ago2011.pdf
+    - https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML
+    - https://tableless.com.br/documentos-acessiveis-com-aria-em-html5/
 - SEO básico
 - Boas práticas
     #### Links de referência
