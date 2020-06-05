@@ -15,6 +15,9 @@
 - https://developer.mozilla.org/pt-BR/docs/Learn/Accessibility/HTML
 - https://tableless.com.br/documentos-acessiveis-com-aria-em-html5/
 #### SEO básico
+- https://resultadosdigitais.com.br/especiais/o-que-e-seo/
+- https://www.conversion.com.br/blog/seo-e-seus-elementos-html-mais-importantes/#gs.7elije
+
 #### Boas práticas
 - https://medium.com/academymeteor/boas-pr%C3%A1ticas-para-programa%C3%A7%C3%A3o-web-html-e-css-c2a62f1b9560
 - https://andrecomws.com/lab/code-standards
