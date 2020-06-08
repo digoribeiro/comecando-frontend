@@ -55,6 +55,17 @@
 - https://www.w3schools.com/cssref/pr_padding.asp
 
 #### Marcação de layout (float, posicionamento, display, flexbox)
+
+#### Float 
+- https://pt-br.learnlayout.com/float.html
+- https://www.w3schools.com/css/css_float.asp
+- https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-float-left-e-float-right-e-sua-trupe-a4f4161114c7
+
+#### Posicionamento 
+- https://www.devmedia.com.br/como-usar-a-propriedade-position-css/24451
+- https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-a-position-static-e-position-relative-5df0a6160543
+- https://pt-br.learnlayout.com/position-example.html
+
 ### Melhor ainda
 #### layout responsivo com CSS
 
