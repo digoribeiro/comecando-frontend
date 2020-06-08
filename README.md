@@ -46,6 +46,14 @@
 - https://www.w3schools.com/css/css_background.asp
 - https://www.w3schools.com/cssref/css3_pr_background.asp
 
+#### Margin
+- https://www.w3schools.com/css/css_margin.asp
+- https://www.w3schools.com/cssref/pr_margin.asp
+
+#### Padding
+- https://www.w3schools.com/css/css_padding.asp
+- https://www.w3schools.com/cssref/pr_padding.asp
+
 #### Marcação de layout (float, posicionamento, display, flexbox)
 ### Melhor ainda
 #### layout responsivo com CSS
