@@ -75,8 +75,8 @@
 - https://www.w3schools.com/css/css3_flexbox.asp
 - https://origamid.com/projetos/flexbox-guia-completo/
 
-#### *(Pratique jogando)*
-- https://flexboxfroggy.com/
+#### *(Aprenda flexbox jogando jogando)*
+- https://flexboxfroggy.com/#pt-br
 
 
 ### Melhor ainda
