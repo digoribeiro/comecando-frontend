@@ -66,6 +66,11 @@
 - https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-a-position-static-e-position-relative-5df0a6160543
 - https://pt-br.learnlayout.com/position-example.html
 
+#### Display
+- https://www.w3schools.com/cssref/pr_class_display.asp
+- https://www.maujor.com/tutorial/propriedade-css-display.php
+- https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-block-98480c987950
+
 ### Melhor ainda
 #### layout responsivo com CSS
 
