@@ -24,6 +24,14 @@
   
 ## CSS
 #### Aprender o básico (fontes, colores, distancia e separação de elementos)
+#### Fontes
+- https://www.w3schools.com/cssref/pr_font_font.asp
+- https://www.w3schools.com/cssref/pr_font_font-family.asp
+- https://www.w3schools.com/cssref/pr_font_font-size.asp
+- https://www.w3schools.com/cssref/pr_dim_line-height.asp
+- https://www.w3schools.com/cssref/pr_font_weight.asp
+- https://www.w3schools.com/cssref/pr_font_font-variant.asp
+
 #### Marcação de layout (float, posicionamento, display, flexbox)
 ### Melhor ainda
 #### layout responsivo com CSS
