@@ -35,6 +35,14 @@
 #### Medidas/Unidades
 - https://www.w3schools.com/cssref/css_units.asp
 
+#### Colores
+- https://www.w3schools.com/colors/default.asp
+- https://www.w3schools.com/css/css_colors.asp
+
+#### Background
+- https://www.w3schools.com/css/css_background.asp
+- https://www.w3schools.com/cssref/css3_pr_background.asp
+
 #### Marcação de layout (float, posicionamento, display, flexbox)
 ### Melhor ainda
 #### layout responsivo com CSS
