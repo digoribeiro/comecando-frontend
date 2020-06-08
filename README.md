@@ -71,6 +71,13 @@
 - https://www.maujor.com/tutorial/propriedade-css-display.php
 - https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-block-98480c987950
 
+#### Flexbox
+- https://www.w3schools.com/css/css3_flexbox.asp
+- https://origamid.com/projetos/flexbox-guia-completo/
+*(Pratique jogando)*
+- https://flexboxfroggy.com/
+
+
 ### Melhor ainda
 #### layout responsivo com CSS
 
