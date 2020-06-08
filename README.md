@@ -23,6 +23,9 @@
 - https://andrecomws.com/lab/code-standards
   
 ## CSS
+### Primeiro guia
+- https://pt-br.learnlayout.com/
+
 #### Aprender o básico (fontes, colores, distancia e separação de elementos)
 #### Fontes
 - https://www.w3schools.com/cssref/pr_font_font.asp
