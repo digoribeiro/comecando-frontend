@@ -32,6 +32,9 @@
 - https://www.w3schools.com/cssref/pr_font_weight.asp
 - https://www.w3schools.com/cssref/pr_font_font-variant.asp
 
+#### Medidas/Unidades
+- https://www.w3schools.com/cssref/css_units.asp
+
 #### Marcação de layout (float, posicionamento, display, flexbox)
 ### Melhor ainda
 #### layout responsivo com CSS
